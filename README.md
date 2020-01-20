@@ -2,6 +2,8 @@
 
 > Minimalist zsh theme
 
+![screenshot](/screen.png)
+
 
 ### How to install
 

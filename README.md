@@ -16,5 +16,6 @@ __~/.zshrc__
 ZSH_THEME="halfeld"
 ```
 
+### License
 
-
+This project is under MIT license
